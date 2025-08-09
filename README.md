@@ -63,5 +63,4 @@ PHAT/
 └─ requirements.txt
 ```
 
-### Bản quyền
-Dùng cho mục đích học tập/thử nghiệm. Vui lòng kiểm tra giấy phép của tập trọng số và dữ liệu bạn sử dụng. 
+# Thanks

@@ -11,12 +11,12 @@ import requests
 
 try:
     from ultralytics import YOLO
-except Exception as e:  # pragma: no cover
+except Exception as e: 
     YOLO = None
 
 
 st.set_page_config(page_title="Phát hiện lửa - YOLOv8", page_icon="🔥", layout="wide")
-st.title("🔥 Phát hiện lửa (YOLOv8)")
+st.title("Phát hiện lửa (YOLOv8)")
 st.caption("Tải ảnh/video hoặc chụp ảnh để chạy mô hình đã huấn luyện.")
 
 # -------------------- Sidebar --------------------

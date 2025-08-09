@@ -62,4 +62,3 @@ PHAT/
 │  └─ runs/detect/train2/weights/best.pt  # Trọng số mô hình (đường dẫn ví dụ)
 └─ requirements.txt
 ```
-có thay đổi nè
